@@ -1,4 +1,3 @@
-# Automate-HR-mail
 This project is an n8n workflow designed to automate the handling of incoming company emails.
 The system performs the following:
 
@@ -12,7 +11,7 @@ Summarizes candidate details (name, email, phone, education, years of experience
 
 Stores structured data into Google Sheets for different departments (HR, Marketing, Sales, Projects, etc.).
 
-Generates professional automated replies to inquiries, adding the official contact email ai@woow.sa.
+Generates professional automated replies to inquiries, adding the official contact email .
 
 Sends direct responses to senders, ensuring faster communication.
 
