@@ -9,7 +9,7 @@ Extracts and processes resume (CV) files in PDF format using AI.
 
 Summarizes candidate details (name, email, phone, education, years of experience, skills, field of expertise).
 
-Stores structured data into Google Sheets for different departments (HR, Marketing, Sales, Projects, etc.).
+Stores structured data into Google Sheets for different departments (HR, Projects, etc.).
 
 Generates professional automated replies to inquiries, adding the official contact email .
 
